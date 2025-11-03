@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: c0a646186a723cd458091e5df345754e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8990735900823360200
+    second: SLOTS_0
+  - first:
+      213: 1720528673570543709
+    second: SLOTS_1
+  - first:
+      213: -1721297776258549271
+    second: SLOTS_2
+  - first:
+      213: 5428183102660337825
+    second: SLOTS_3
+  - first:
+      213: 958188114334718641
+    second: SLOTS_4
+  - first:
+      213: 6825882272501873661
+    second: SLOTS_5
+  - first:
+      213: -2083240977706954046
+    second: SLOTS_6
+  - first:
+      213: -8103642629346752824
+    second: SLOTS_7
+  - first:
+      213: 191869819865949146
+    second: SLOTS_8
+  - first:
+      213: -2218600388840498862
+    second: SLOTS_9
+  - first:
+      213: 446597325502605944
+    second: SLOTS_10
+  - first:
+      213: -5772733459007850259
+    second: SLOTS_11
+  - first:
+      213: 8195398190111022618
+    second: SLOTS_12
+  - first:
+      213: 5700088101789433642
+    second: SLOTS_13
+  - first:
+      213: 3523148658531582828
+    second: SLOTS_14
+  - first:
+      213: -437775340917047761
+    second: SLOTS_15
+  - first:
+      213: 5721227608836135509
+    second: SLOTS_16
+  - first:
+      213: -5675560448986018282
+    second: SLOTS_17
+  - first:
+      213: -5377474650237298662
+    second: SLOTS_18
+  - first:
+      213: 7558773084020798987
+    second: SLOTS_19
+  - first:
+      213: 4845077985782985540
+    second: SLOTS_20
+  - first:
+      213: 6927123732826928260
+    second: SLOTS_21
+  - first:
+      213: -6587646901556358589
+    second: SLOTS_22
+  - first:
+      213: 4416098487584662514
+    second: SLOTS_23
+  - first:
+      213: 3483557699458948154
+    second: SLOTS_24
+  - first:
+      213: 5799958637344243085
+    second: SLOTS_25
+  - first:
+      213: 2459456363585419483
+    second: SLOTS_26
+  - first:
+      213: -2371805518397746181
+    second: SLOTS_27
+  - first:
+      213: 551764818863867265
+    second: SLOTS_28
+  - first:
+      213: -3341215131453767000
+    second: SLOTS_29
+  - first:
+      213: 7233592849514370311
+    second: SLOTS_30
+  - first:
+      213: 4005777398377013418
+    second: SLOTS_31
+  - first:
+      213: -6961829326206443652
+    second: SLOTS_32
+  - first:
+      213: -5870706012365896517
+    second: SLOTS_33
+  - first:
+      213: -6357807502549972224
+    second: SLOTS_34
+  - first:
+      213: -5729684748146994243
+    second: SLOTS_35
+  - first:
+      213: 3210580729843575462
+    second: SLOTS_36
+  - first:
+      213: 2162118063403016344
+    second: SLOTS_37
+  - first:
+      213: 2898121330429368186
+    second: SLOTS_38
+  - first:
+      213: -1739363242935995274
+    second: SLOTS_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLOTS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d621a455d7a3380800000000000000
+      internalID: -8990735900823360200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58db0e76bb80e710800000000000000
+      internalID: 1720528673570543709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e97075dac8bc18e0800000000000000
+      internalID: -1721297776258549271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e8d9a5c7c45b40800000000000000
+      internalID: 5428183102660337825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba1ce6630b2c4d00800000000000000
+      internalID: 958188114334718641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3c1303c76abe50800000000000000
+      internalID: 6825882272501873661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 587
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25d364e57d613e0800000000000000
+      internalID: -2083240977706954046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 587
+        width: 101
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6031ba6f31a8f80800000000000000
+      internalID: -8103642629346752824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad36a38a598a9a200800000000000000
+      internalID: 191869819865949146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2595e9473b2f531e0800000000000000
+      internalID: -2218600388840498862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae830c6e1a23600800000000000000
+      internalID: 446597325502605944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de833d8118123efa0800000000000000
+      internalID: -5772733459007850259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e527a9b37ebb170800000000000000
+      internalID: 8195398190111022618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff69f9de7ca1f40800000000000000
+      internalID: 5700088101789433642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 440
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c634baad90db4e030800000000000000
+      internalID: 3523148658531582828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 440
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eb63995a5bce9f0800000000000000
+      internalID: -437775340917047761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad5d7a232e56f40800000000000000
+      internalID: 5721227608836135509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8ee097db5c31b0800000000000000
+      internalID: -5675560448986018282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1810f3fb4f5f55b0800000000000000
+      internalID: -5377474650237298662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f7d2621826e860800000000000000
+      internalID: 7558773084020798987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f8abf1cc2d3340800000000000000
+      internalID: 4845077985782985540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484b3526556122060800000000000000
+      internalID: 6927123732826928260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 293
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342d70fbb0af394a0800000000000000
+      internalID: -6587646901556358589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 293
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3af9d4d22294d30800000000000000
+      internalID: 4416098487584662514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd3de5545185030800000000000000
+      internalID: 3483557699458948154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbcd2b6a79d7050800000000000000
+      internalID: 5799958637344243085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8351c288eb12220800000000000000
+      internalID: 2459456363585419483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf357978277a51fd0800000000000000
+      internalID: -2371805518397746181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18540fbed2348a700800000000000000
+      internalID: 551764818863867265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c98b5a8e91a1d0800000000000000
+      internalID: -3341215131453767000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_30
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 146
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051c151f52e26460800000000000000
+      internalID: 7233592849514370311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_31
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 146
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ec8ff151679730800000000000000
+      internalID: 4005777398377013418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f5198fc1d926f90800000000000000
+      internalID: -6961829326206443652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44e207cff078ea0800000000000000
+      internalID: -5870706012365896517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0234f2c784c7a0800000000000000
+      internalID: -6357807502549972224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db399b724121c70b0800000000000000
+      internalID: -5729684748146994243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa6a05d9264e8c20800000000000000
+      internalID: 3210580729843575462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a79b5ce2610e10800000000000000
+      internalID: 2162118063403016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_38
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779930cef1383820800000000000000
+      internalID: 2898121330429368186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLOTS_39
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 101
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674bd69985a8cd7e0800000000000000
+      internalID: -1739363242935995274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLOTS_0: -8990735900823360200
+      SLOTS_1: 1720528673570543709
+      SLOTS_10: 446597325502605944
+      SLOTS_11: -5772733459007850259
+      SLOTS_12: 8195398190111022618
+      SLOTS_13: 5700088101789433642
+      SLOTS_14: 3523148658531582828
+      SLOTS_15: -437775340917047761
+      SLOTS_16: 5721227608836135509
+      SLOTS_17: -5675560448986018282
+      SLOTS_18: -5377474650237298662
+      SLOTS_19: 7558773084020798987
+      SLOTS_2: -1721297776258549271
+      SLOTS_20: 4845077985782985540
+      SLOTS_21: 6927123732826928260
+      SLOTS_22: -6587646901556358589
+      SLOTS_23: 4416098487584662514
+      SLOTS_24: 3483557699458948154
+      SLOTS_25: 5799958637344243085
+      SLOTS_26: 2459456363585419483
+      SLOTS_27: -2371805518397746181
+      SLOTS_28: 551764818863867265
+      SLOTS_29: -3341215131453767000
+      SLOTS_3: 5428183102660337825
+      SLOTS_30: 7233592849514370311
+      SLOTS_31: 4005777398377013418
+      SLOTS_32: -6961829326206443652
+      SLOTS_33: -5870706012365896517
+      SLOTS_34: -6357807502549972224
+      SLOTS_35: -5729684748146994243
+      SLOTS_36: 3210580729843575462
+      SLOTS_37: 2162118063403016344
+      SLOTS_38: 2898121330429368186
+      SLOTS_39: -1739363242935995274
+      SLOTS_4: 958188114334718641
+      SLOTS_5: 6825882272501873661
+      SLOTS_6: -2083240977706954046
+      SLOTS_7: -8103642629346752824
+      SLOTS_8: 191869819865949146
+      SLOTS_9: -2218600388840498862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

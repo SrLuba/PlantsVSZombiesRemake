@@ -13,4 +13,12 @@ public class PlantSO : ScriptableObject
     public int health = 300;
     public float attackCooldown = 1.5f;
     public float rechargeCooldown = 7.5f;
+
+
+    public Sprite icon;
+
+    public Vector2 iconSize;
+    public Sprite typePlantSprite;
+
+    public string actionCaption = "Production:";
 }

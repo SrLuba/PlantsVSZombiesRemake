@@ -16,8 +16,8 @@ MonoBehaviour:
   displayName: Sunflower
   description: 'Sunflowers are essential for you to
 
-    produce extra sun. Try
-    planting as many as you can!'
+    produce extra sun. Try planting
+    as many as you can!'
   quote: 'Sunflower can''t resist bouncing to the
 
     beat. Which beat is that?
@@ -29,8 +29,12 @@ MonoBehaviour:
     a frequency only
 
     Sunflower can hear.'
-  damage: 20
+  damage: 1
   range: {x: 1, y: 1}
   health: 300
-  attackCooldown: 1.5
+  attackCooldown: 24
   rechargeCooldown: 7.5
+  icon: {fileID: 21300000, guid: 545ab74fd7ae57b4f832786bdca9fe19, type: 3}
+  iconSize: {x: 0.25, y: 0.25}
+  typePlantSprite: {fileID: 2933845967799184529, guid: fdf155604a0379347aaac53347ad1b2e, type: 3}
+  actionCaption: 'Production:'

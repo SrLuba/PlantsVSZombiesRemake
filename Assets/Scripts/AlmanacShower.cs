@@ -1,6 +1,5 @@
 using TMPro;
 using UnityEngine;
-
 public class AlmanacShower : MonoBehaviour
 {
 
@@ -8,7 +7,7 @@ public class AlmanacShower : MonoBehaviour
     public bool auto;
 
     public TMP_Text plantNameUp, plantName, description, quote, damage, range, cooldown, health;
-
+    public TMP_Text damageCaption;
 
 
 
@@ -33,5 +32,7 @@ public class AlmanacShower : MonoBehaviour
         range.text = $"{plant.range.x}x{plant.range.y}";
         cooldown.text = $"{plant.rechargeCooldown}s";
         health.text = plant.health.ToString();
+
+        damageCaption.text = plant.actionCaption;
     }
 }

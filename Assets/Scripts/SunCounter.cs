@@ -46,15 +46,15 @@ public class SunCounter : MonoBehaviour
         }
         else if (number.ToString().Length == 3)
         {
-            numbers[0].show = false;
+            numbers[0].show = true;
             numbers[1].show = true;
             numbers[2].show = true;
-            numbers[3].show = true;
+            numbers[3].show = false;
 
 
-            numbers[1].number = int.Parse(chars[0].ToString());
-            numbers[2].number = int.Parse(chars[1].ToString());
-            numbers[3].number = int.Parse(chars[2].ToString());
+            numbers[0].number = int.Parse(chars[0].ToString());
+            numbers[1].number = int.Parse(chars[1].ToString());
+            numbers[2].number = int.Parse(chars[2].ToString());
         }
         else if (number.ToString().Length == 4)
         {

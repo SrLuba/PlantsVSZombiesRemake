@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 80788ee08d701744ab78ff7db2a5f554
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -760521645202680591
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_0
+  - first:
+      213: -6068837661083397296
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_1
+  - first:
+      213: 8401031762988378604
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_2
+  - first:
+      213: 7103987285434355586
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_3
+  - first:
+      213: 675775299045265762
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_4
+  - first:
+      213: -8272394506254540234
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_5
+  - first:
+      213: -6001590551760211047
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_6
+  - first:
+      213: 4309412120104646022
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_7
+  - first:
+      213: 4326401254955484966
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_8
+  - first:
+      213: -7594811151653874270
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_9
+  - first:
+      213: -2366274596735439944
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_10
+  - first:
+      213: -8811162076954420236
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_11
+  - first:
+      213: 8116234973262242326
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_12
+  - first:
+      213: -7402438768208166850
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_13
+  - first:
+      213: -4431912076086595570
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_14
+  - first:
+      213: 2870467743402211234
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_15
+  - first:
+      213: -4162619080491504953
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_16
+  - first:
+      213: -9003795819146121125
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_17
+  - first:
+      213: 1435794924048964268
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_18
+  - first:
+      213: -8597335718455434975
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_19
+  - first:
+      213: 6294004132139606
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_20
+  - first:
+      213: 6191799460828721958
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_21
+  - first:
+      213: -43390522757080003
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_22
+  - first:
+      213: -5048434267137836837
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_23
+  - first:
+      213: 9015179610548621278
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_24
+  - first:
+      213: 6993231845952051458
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_25
+  - first:
+      213: 3847685359060868110
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_26
+  - first:
+      213: -2250839689788610550
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_27
+  - first:
+      213: -105616346205189539
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_28
+  - first:
+      213: -122258865451600863
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_29
+  - first:
+      213: 7485872606548120548
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_30
+  - first:
+      213: -2954796970601459733
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_31
+  - first:
+      213: 3541302650213507948
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_32
+  - first:
+      213: 6353653736031229614
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_33
+  - first:
+      213: 5284240787861380639
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_34
+  - first:
+      213: -6820257779395659715
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_35
+  - first:
+      213: -8850251577182420587
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_36
+  - first:
+      213: 2609429592385157901
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_37
+  - first:
+      213: -7347506628962299341
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_38
+  - first:
+      213: -3074676068783110593
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_39
+  - first:
+      213: 2820304904068367344
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_40
+  - first:
+      213: 2803384573713730734
+    second: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d2b5d7951275f0800000000000000
+      internalID: -760521645202680591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 831
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539c932d4827cba0800000000000000
+      internalID: -6068837661083397296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 823
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce922bbb0e5769470800000000000000
+      internalID: 8401031762988378604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 512
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc43d2cce669260800000000000000
+      internalID: 7103987285434355586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 344
+        width: 322
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619397dd06d06900800000000000000
+      internalID: 675775299045265762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 341
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6322ecc860d823d80800000000000000
+      internalID: -8272394506254540234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 819
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993fdf2e03116bca0800000000000000
+      internalID: -6001590551760211047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 545
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b991bd7b1ecb30800000000000000
+      internalID: 4309412120104646022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 494
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6270d65e4077a0c30800000000000000
+      internalID: 4326401254955484966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 415
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5de712f7fc99690800000000000000
+      internalID: -7594811151653874270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_10
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 467
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbad849acd492fd0800000000000000
+      internalID: -2366274596735439944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 347
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1db846c678b580800000000000000
+      internalID: -8811162076954420236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 417
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e5eed4b8a2a070800000000000000
+      internalID: 8116234973262242326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 386
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304f5df821454990800000000000000
+      internalID: -7402438768208166850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 375
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e003815b27fae72c0800000000000000
+      internalID: -4431912076086595570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_15
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 244
+        width: 148
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b4b84433f5d720800000000000000
+      internalID: 2870467743402211234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 367
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6a0430086b36c0800000000000000
+      internalID: -4162619080491504953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_17
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 369
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f5a918671c0380800000000000000
+      internalID: -9003795819146121125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_18
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 315
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5f3250e7fce310800000000000000
+      internalID: 1435794924048964268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 264
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121afa6f6b020b880800000000000000
+      internalID: -8597335718455434975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_20
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d2880d5c561000800000000000000
+      internalID: 6294004132139606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_21
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 244
+        width: 115
+        height: 121
+      alignment: 9
+      pivot: {x: 0.1, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623b627ddc0bde550800000000000000
+      internalID: 6191799460828721958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_22
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 309
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1278ac88d56ff0800000000000000
+      internalID: -43390522757080003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_23
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 207
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f65328cb50f9b0800000000000000
+      internalID: -5048434267137836837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_24
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 209
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf4811671a5c1d70800000000000000
+      internalID: 9015179610548621278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_25
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209dbe9ef43fc0160800000000000000
+      internalID: 6993231845952051458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c5b4ab279b56530800000000000000
+      internalID: 3847685359060868110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_27
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 225
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08acc34a3963c0e0800000000000000
+      internalID: -2250839689788610550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_28
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 184
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a07f12e76c88ef0800000000000000
+      internalID: -105616346205189539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_29
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 235
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1247d1aa536ad4ef0800000000000000
+      internalID: -122258865451600863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_30
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 209
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d02b497923e760800000000000000
+      internalID: 7485872606548120548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_31
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 147
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef46e77fc37ef6d0800000000000000
+      internalID: -2954796970601459733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1
+        width: 220
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63202c6ffb352130800000000000000
+      internalID: 3541302650213507948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_33
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea699f9e866bc2850800000000000000
+      internalID: 6353653736031229614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_34
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 70
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9b1cdff4655940800000000000000
+      internalID: 5284240787861380639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 71
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f6865fa39951a0800000000000000
+      internalID: -6820257779395659715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 206
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918339c4179d2580800000000000000
+      internalID: -8850251577182420587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_37
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 73
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b7280936e863420800000000000000
+      internalID: 2609429592385157901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_38
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332dfd356a9680a90800000000000000
+      internalID: -7347506628962299341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_39
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 0
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36c9c0e76e8455d0800000000000000
+      internalID: -3074676068783110593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_40
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3894d1e5cb32720800000000000000
+      internalID: 2820304904068367344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_41
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac4405ba6f97e620800000000000000
+      internalID: 2803384573713730734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55b19ffe7b3dc594d9a3987c5a684a4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_0: -760521645202680591
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_1: -6068837661083397296
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_10: -2366274596735439944
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_11: -8811162076954420236
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_12: 8116234973262242326
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_13: -7402438768208166850
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_14: -4431912076086595570
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_15: 2870467743402211234
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_16: -4162619080491504953
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_17: -9003795819146121125
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_18: 1435794924048964268
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_19: -8597335718455434975
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_2: 8401031762988378604
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_20: 6294004132139606
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_21: 6191799460828721958
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_22: -43390522757080003
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_23: -5048434267137836837
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_24: 9015179610548621278
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_25: 6993231845952051458
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_26: 3847685359060868110
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_27: -2250839689788610550
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_28: -105616346205189539
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_29: -122258865451600863
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_3: 7103987285434355586
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_30: 7485872606548120548
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_31: -2954796970601459733
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_32: 3541302650213507948
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_33: 6353653736031229614
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_34: 5284240787861380639
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_35: -6820257779395659715
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_36: -8850251577182420587
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_37: 2609429592385157901
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_38: -7347506628962299341
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_39: -3074676068783110593
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_4: 675775299045265762
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_40: 2820304904068367344
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_41: 2803384573713730734
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_5: -8272394506254540234
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_6: -6001590551760211047
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_7: 4309412120104646022
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_8: 4326401254955484966
+      sactx-0-2048x1024-BC7-Cursors_Atlas-0e974ddd_9: -7594811151653874270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

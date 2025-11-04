@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4139d3d29c5744982b3e59903e055e, type: 3}
+  m_Name: WateryGraves
+  m_EditorClassIdentifier: 
+  mainMusicClip: {fileID: 8300000, guid: 5b8dd9403fa980f469cda05723388188, type: 3}
+  volume: 1
+  mainSection:
+  - sectionName: Section 0
+    time: 0
+    qTime: 0
+    nextRedirect: 1
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 31.4
+  - sectionName: Section 1
+    time: 4.46
+    qTime: 105.42
+    nextRedirect: 2
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 0
+  - sectionName: Section 3
+    time: 31.4
+    qTime: 132.33
+    nextRedirect: 3
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 0
+  - sectionName: Section 4
+    time: 67.28
+    qTime: 168.22
+    nextRedirect: 4
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 69.49
+  - sectionName: 'Section 5 (Section 2 IC) '
+    time: 87.47
+    qTime: 188.41
+    nextRedirect: 1
+    duration: 17.9
+    redirectWave: -1
+    writtenDuration: 51.59
+  GrandWaveSections:
+  - sectionName: Section GW
+    time: 206.35
+    qTime: 206.35
+    nextRedirect: 1
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 0
+  - sectionName: Section GW (Hurry)
+    time: 224.29
+    qTime: 224.29
+    nextRedirect: 2
+    duration: -1
+    redirectWave: -1
+    writtenDuration: 0
+  - sectionName: Section GW (Extension)
+    time: 233.27
+    qTime: 233.27
+    nextRedirect: -1
+    duration: 75
+    redirectWave: -1
+    writtenDuration: 0
+  theEnd:
+    sectionName: The End
+    time: 242.2
+    qTime: 242.2
+    nextRedirect: -1
+    duration: 255
+    redirectWave: -1
+    writtenDuration: 0
+  subSections:
+  - subSectionName: Dynamic Track 1 (ZombieDrums)
+    clip: {fileID: 8300000, guid: 43c2548ecbb8d9c41b66ce0d7d0457b1, type: 3}
+    volume: 1
+    setOnWhenAny: 0
+    effectiveness: 0.4
+    effect: 0
+  - subSectionName: Dynamic Track 2 (Wave Incoming)
+    clip: {fileID: 8300000, guid: 0db666f5c7bd0714ab6f12848f8e364d, type: 3}
+    volume: 1
+    setOnWhenAny: 0
+    effectiveness: 1
+    effect: 1
+  - subSectionName: Dynamic Track 2 (Wave Incoming)
+    clip: {fileID: 8300000, guid: efab2527bcee19b4097235090c6134f7, type: 3}
+    volume: 1
+    setOnWhenAny: 1
+    effectiveness: 0
+    effect: 2
+  GrandPreparation: 3
+  winJingle: Ingame_WateryGrave_Win
+  grandWaveCheckpoints:
+  - 31.4
+  - 67.28
+  - 87.47
+  - 105.42

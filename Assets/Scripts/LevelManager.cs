@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 public static class JumpUtility
 {
 
@@ -21,7 +22,11 @@ public static class JumpUtility
 public class LevelManager : MonoBehaviour
 {
 
-
+    public static LevelManager instance;
+    private void Awake()
+    {
+        instance = this;
+    }
     public GameObject introductionUIObj;
     public SmoothTextController houseText;
     public LerpObject SeedUI, introductionUILO;
@@ -37,7 +42,69 @@ public class LevelManager : MonoBehaviour
 
     public List<JumpingObject> lawnMowers;
 
+    public bool incomingWave;
+    public bool onWave;
 
+    public int onScreenZombies = 0;
+
+    public SplashScreenScript waveTinyText, waveBigText, finalWaveText;
+    public MusicSO cysM, levelM;
+
+    public bool finalWave;
+    public void StartWave(bool last) {
+        incomingWave = true;
+        StartCoroutine(WaveSequence(last));
+    }
+
+    public IEnumerator WaveSequence(bool last) {
+        yield return new WaitForSeconds(7f);
+        SoundManager.instance.Play("hugewave_incoming");
+      
+
+        if (last)
+        {
+            waveBigText.Splash(5f);
+            this.finalWave = true;
+            this.onWave = true;
+            yield return new WaitForSeconds(1f);
+
+            SoundManager.instance.Play("wave_siren");
+            yield return MusicManager.instance.AwaitConnection(-MusicManager.instance.transitionDuration);
+            MusicManager.instance.ToggleTransition(0, PlayingSectionInfo.GrandWave);
+            MusicManager.instance.finalWave = true;
+            yield return new WaitForSeconds(MusicManager.instance.finalWaveTransitionDuration);
+            SoundManager.instance.Play("final_wave");
+            finalWaveText.Splash(5f);
+        }
+        else
+        {
+            waveTinyText.Splash(5f);
+        }
+
+        if (!last) yield return new WaitForSeconds(3.5f);
+        
+        if (!last) { 
+            this.onWave = true;
+        }
+
+        yield return new WaitForSeconds(1.5f);
+
+        if (!last) SoundManager.instance.Play("wave_siren");
+  
+        incomingWave = false;
+        yield return new WaitForSeconds(1f);
+        
+
+    }
+
+    public void StopWave() {
+        onWave = false;
+      
+
+        if (finalWave) { 
+            MusicManager.instance.ToggleTransition(1, PlayingSectionInfo.Normal);
+        }
+    }
     void Start()
     {
         PrepareLevel();
@@ -45,9 +112,8 @@ public class LevelManager : MonoBehaviour
 
 
     public void PrepareLevel() {
-        MusicManager.instance.Play("cys");
-        MusicManager.instance.SetVolume(0f);
-        MusicManager.instance.SetVolumeBlending(1f, 1f);
+
+        MusicManager.instance.PlaySimple(this.cysM);
 
         StartCoroutine(PrepareLevelIE());
     }
@@ -72,6 +138,10 @@ public class LevelManager : MonoBehaviour
         CYSPanel.SetActive(true);
     }
 
+    public void Update()
+    {
+        if (Keyboard.current.jKey.wasPressedThisFrame) StartWave(Keyboard.current.leftShiftKey.isPressed);
+    }
 
     public void StartLevel() { 
         StartCoroutine(StartLevelIE());
@@ -83,6 +153,8 @@ public class LevelManager : MonoBehaviour
         GameManager.instance.StartGame();
 
         yield return new WaitForSeconds(2f);
+        MusicManager.instance.SetMainVolumeTarget(0f);
+
         yield return ShowLawnMowers();
 
         yield return ReadyStartGo();
@@ -100,14 +172,14 @@ public class LevelManager : MonoBehaviour
     public IEnumerator ReadyStartGo() {
         SoundManager.instance.Play("sfx_readysetplant"); // Play Sound
 
-        MusicManager.instance.SetVolume(1f);
-        MusicManager.instance.SetVolumeBlending(0f, 1f);
+        //MusicManager.instance.SetVolume(1f);
+        //MusicManager.instance.SetVolumeBlending(0f, 1f);
 
 
         //READY
         {
             // Ready!
-            rsganim.Play("rsg", 0, 0f);
+            rsganim.Play("splash", 0, 0f);
 
             // Set Text.
             readysetgo1.text = "Ready...";
@@ -123,7 +195,7 @@ public class LevelManager : MonoBehaviour
         //SET
         {
             // Set!
-            rsganim.Play("rsg", 0, 0f);
+            rsganim.Play("splash", 0, 0f);
 
             // Set Text.
             readysetgo1.text = "Set...";
@@ -140,7 +212,7 @@ public class LevelManager : MonoBehaviour
         //PLANT!
         {
             // PLANT!
-            rsganim.Play("rsg", 0, 0f);
+            rsganim.Play("splash", 0, 0f);
 
             // Set Text.
             readysetgo1.text = "PLANT!";
@@ -154,9 +226,9 @@ public class LevelManager : MonoBehaviour
         }
 
 
-        MusicManager.instance.Play("grasswalk");
-        MusicManager.instance.SetVolumeBlending(1f, 1f);
-        MusicManager.instance.SetVolume(1f);
+        MusicManager.instance.PrepareMusic(this.levelM);
+        //MusicManager.instance.SetVolumeBlending(1f, 1f);
+        //MusicManager.instance.SetVolume(1f);
 
     }
 }

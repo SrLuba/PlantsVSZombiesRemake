@@ -227,7 +227,6 @@ public class MusicManager : MonoBehaviour
         if (Keyboard.current.pKey.wasPressedThisFrame) ForcePlaySection(targetSection);
         if (Keyboard.current.uKey.wasPressedThisFrame) ToggleTransition(0, PlayingSectionInfo.GrandWave);
         if (Keyboard.current.yKey.wasPressedThisFrame) ToggleTransition(0, PlayingSectionInfo.End);
-        if (Keyboard.current.wKey.wasPressedThisFrame) SoundManager.instance.Play(this.currentMusic.winJingle);
 
 
         if (this.currentSection.nextRedirect >= 0)

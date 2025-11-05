@@ -46,7 +46,6 @@ public class MusicSO : ScriptableObject
     public int GrandPreparation;
 
 
-    public string winJingle;
 
     public List<float> grandWaveCheckpoints;
 }

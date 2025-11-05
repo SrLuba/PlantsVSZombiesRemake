@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+
+
+
+public enum LevelAppareanceType { 
+    Day,
+    Night
+}
+
 public static class JumpUtility
 {
 
@@ -48,9 +56,28 @@ public class LevelManager : MonoBehaviour
     public int onScreenZombies = 0;
 
     public SplashScreenScript waveTinyText, waveBigText, finalWaveText;
-    public MusicSO cysM, levelM;
 
     public bool finalWave;
+
+    public LevelSO currentLevel;
+    GameObject levelGB;
+
+    public void LoadLevel(LevelSO lvl)
+    {
+        this.currentLevel = lvl;
+
+        if (levelGB != null) {
+            Destroy(levelGB);
+        }
+
+        GameObject level = currentLevel.levelPrefab;
+
+        levelGB = Instantiate(level);
+        levelGB.transform.parent = this.transform.GetChild(0);
+        levelGB.transform.localPosition = Vector3.zero;
+        UIManager.instance.currentStyle = lvl.uiStyle;
+    }
+
     public void StartWave(bool last) {
         incomingWave = true;
         StartCoroutine(WaveSequence(last));
@@ -107,13 +134,14 @@ public class LevelManager : MonoBehaviour
     }
     void Start()
     {
+        LoadLevel(this.currentLevel);
         PrepareLevel();
     }
 
 
     public void PrepareLevel() {
 
-        MusicManager.instance.PlaySimple(this.cysM);
+        MusicManager.instance.PlaySimple(this.currentLevel.chooseYourSeedsMusic);
 
         StartCoroutine(PrepareLevelIE());
     }
@@ -124,8 +152,10 @@ public class LevelManager : MonoBehaviour
 
         introductionUIObj.SetActive(true);
         introductionUILO.show = true;
-
         CameraController.instance.Reset();
+
+        CameraController.instance.cys = true;
+
         houseText.show = true;
         yield return new WaitForSeconds(2f);
 
@@ -133,7 +163,6 @@ public class LevelManager : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
 
         SeedUI.show = true;
-        CameraController.instance.cys = true;
         yield return new WaitForSeconds(0.6f);
         CYSPanel.SetActive(true);
     }
@@ -226,7 +255,7 @@ public class LevelManager : MonoBehaviour
         }
 
 
-        MusicManager.instance.PrepareMusic(this.levelM);
+        MusicManager.instance.PrepareMusic(this.currentLevel.music);
         //MusicManager.instance.SetVolumeBlending(1f, 1f);
         //MusicManager.instance.SetVolume(1f);
 

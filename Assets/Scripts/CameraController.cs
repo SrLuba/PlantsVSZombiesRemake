@@ -9,14 +9,13 @@ public class CameraController : MonoBehaviour
     }
 
     public bool cys;
-    public Vector3 chooseYourSeedsPos, defaultPos;
+    public Vector3 defaultPos;
 
     public Transform cam;
-    public float speed;
 
     bool pCYS = false;
-    float timer = 0f;
 
+    public Animator anim;
 
     public void Reset()
     {
@@ -26,12 +25,11 @@ public class CameraController : MonoBehaviour
     public void Update()
     {
         if (pCYS != cys) {
-            timer = 0f;
             pCYS = cys;
-        }
-        Vector3 targetPos = cys ? chooseYourSeedsPos : defaultPos;
 
-        cam.transform.position = Vector3.Lerp(cam.transform.position, targetPos, speed*Time.deltaTime);
+            anim.Play(cys ? "cys" : "start", 0, 0f);
+        }
+        
     }
 
 }

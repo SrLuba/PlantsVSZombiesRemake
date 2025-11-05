@@ -1,13 +1,31 @@
 fileFormatVersion: 2
-guid: 5be37b3f5c59e12448a8b3765d4dfe0a
+guid: 25907512fb468054bb12cc69dcdc4476
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8657657077145650667
-    second: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_0
+      213: 6648764182548901696
+    second: HUD 3_0
   - first:
-      213: -8200882060283723973
-    second: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_1
+      213: 5686770860252043910
+    second: HUD 3_1
+  - first:
+      213: 5284669801445550605
+    second: HUD 3_2
+  - first:
+      213: 1647129236617819208
+    second: HUD 3_3
+  - first:
+      213: 7223381334726060463
+    second: HUD 3_4
+  - first:
+      213: -4749217397240060233
+    second: HUD 3_5
+  - first:
+      213: -9022824445558887013
+    second: HUD 3_6
+  - first:
+      213: 2540482200051420599
+    second: HUD 3_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +93,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -99,128 +117,181 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_0
+      name: HUD 3_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 5259
-        height: 2166
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be5c96ecd3d262870800000000000000
-      internalID: 8657657077145650667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_1
-      rect:
-        serializedVersion: 2
-        x: 5807
-        y: 0
-        width: 306
-        height: 259
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3f3aef573d903e80800000000000000
-      internalID: -8200882060283723973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_2
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 2166
-        width: 5259
-        height: 730
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ef87ef89ad1e63468de64a2e8d3ab4c
-      internalID: 1086569373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2899
-        width: 5265
-        height: 634
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a0681e6f56989d4ca373a74dedbc0cf
-      internalID: -1601000849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_4
-      rect:
-        serializedVersion: 2
-        x: 766
-        y: 4179
-        width: 260
-        height: 376
+        x: 630
+        y: 875
+        width: 112
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 36c4474ff52efcd409c39b9b93fae8ac
-      internalID: 853675377
+      spriteID: 04fea202cc7254c50800000000000000
+      internalID: 6648764182548901696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_1
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 13
+        width: 926
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a9d54b7f77bee40800000000000000
+      internalID: 5686770860252043910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 601
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a656e5f2be65940800000000000000
+      internalID: 5284669801445550605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 738
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844f3c75057cbd610800000000000000
+      internalID: 1647129236617819208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 202
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9a8858d0b9e3460800000000000000
+      internalID: 7223381334726060463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 260
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a66c80f3671eb0800000000000000
+      internalID: -4749217397240060233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 222
+        width: 354
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d60c3c8fc78c280800000000000000
+      internalID: -9022824445558887013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD 3_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 1172
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd8444d91b914320800000000000000
+      internalID: 2540482200051420599
       vertices: []
       indices: 
       edges: []
@@ -229,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fdc00be59e8aecc4f83f11f5a273a3cc
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -239,11 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_0: 8657657077145650667
-      sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_1: -8200882060283723973
-      sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_2: 1086569373
-      sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_3: -1601000849
-      sactx-0-8192x8192-BC7-Area2-Night_Atlas-24fef963_4: 853675377
+      HUD 3_0: 6648764182548901696
+      HUD 3_1: 5686770860252043910
+      HUD 3_2: 5284669801445550605
+      HUD 3_3: 1647129236617819208
+      HUD 3_4: 7223381334726060463
+      HUD 3_5: -4749217397240060233
+      HUD 3_6: -9022824445558887013
+      HUD 3_7: 2540482200051420599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
